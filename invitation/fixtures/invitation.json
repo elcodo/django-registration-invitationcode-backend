@@ -1,0 +1,26 @@
+[
+	{
+		"model": "invitation.invitationcode",
+		"pk": 1,
+		"fields": {
+			"code": "c8Oih",
+			"is_used": false,
+		}
+	},
+	{
+		"model": "invitation.invitationcode",
+		"pk": 2,
+		"fields": {
+			"code": "HQTUs",
+			"is_used": false,
+		}
+	},
+	{
+		"model": "invitation.invitationcode",
+		"pk": 3,
+		"fields": {
+			"code": "Jb89u",
+			"is_used": false,
+		}
+	},
+]

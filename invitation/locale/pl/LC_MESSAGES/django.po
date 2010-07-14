@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-14 11:08+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms:  nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%"
+"100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: fields.py:17
+msgid "Invalid invitation code."
+msgstr "Nieprawidłowy kod zaproszenia."
+
+#: forms.py:16 models.py:9
+msgid "Invitation code"
+msgstr "Kod zaproszenia"
+
+#: forms.py:18
+msgid "I have read and agree to the Terms of  Service"
+msgstr "Zapoznałem się i akceptuje regulamin serwisu"
+
+#: forms.py:20
+msgid "You must agree to the terms to register"
+msgstr "Musisz zaakceptować regulamin serwisu"
+
+#: models.py:11
+msgid "Is code used?"
+msgstr "Czy kod został użyty?"
+
+#: models.py:14
+msgid "Used on"
+msgstr "Użyty dnia"
